@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "CustomSkins Example",
+        "uuid": "3d9cb0ec-3f55-47ff-a1eb-7073ccfc7e89",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "2d693e72-4890-46c8-a637-5838bc4a2059",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
