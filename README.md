@@ -15,7 +15,7 @@ Automatically make a Minecraft Bedrock skin pack
 
 2. Run bspm.py
 
-3. Do a manifest.json file in the output folder (a manifest.json template can be found in the examples folder of the repo, don't forget to replace all the uuid4 by one you generated)
+3. Do a manifest.json file in the output folder (a manifest.json template can be found in the examples folder of the repo, don't forget to replace all the uuid4 by whatever uuid4s you generated)
 
 4. Edit skins.json (in the output folder) to replace serialize_name and localization_name, and if you want, edit all the skins names
 
